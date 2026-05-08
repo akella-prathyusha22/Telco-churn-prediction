@@ -14,7 +14,9 @@ Customer churn costs telecom companies millions annually. Acquiring a new custom
 ## Project Structure
 
 -telco-churn-prediction/telco_churn_analysis.ipynb   # Main notebook - full analysis
+
 -telco-churn-prediction/telco_churn_clean.csv        # Cleaned dataset
+
 -README.md
 
 
