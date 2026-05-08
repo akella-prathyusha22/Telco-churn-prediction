@@ -12,13 +12,13 @@ Customer churn costs telecom companies millions annually. Acquiring a new custom
 - **Target:** Binary churn label (26.6% churn rate)
 
 ## Project Structure
-
+'''
 telco-churn-prediction/
 │
 ├── telco_churn_analysis.ipynb   # Main notebook - full analysis
 ├── telco_churn_clean.csv        # Cleaned dataset
 └── README.md
-
+'''
 
 ## Key Findings
 - **Contract type** is the strongest churn predictor - month-to-month customers churn at 4x the rate of long-term contract holders
