@@ -1,4 +1,8 @@
 # Telco Customer Churn Prediction
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-custom-name.streamlit.app)
+
+## Live Demo
+[Click here to try the app](https://telco-user-churn-predictior.streamlit.app)
 
 ## Project Overview
 A complete end-to-end data science project predicting customer churn for a telecom company using machine learning. The goal is to identify at-risk customers before they leave, enabling proactive retention strategies.
