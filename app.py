@@ -22,7 +22,7 @@ def load_model():
 model, scaler = load_model()
 
 # ── Header ────────────────────────────────────────────────────
-st.title("📡 Telco Customer Churn Predictor")
+st.title("Telco Customer Churn Predictor")
 st.markdown("Enter customer details below to predict churn risk.")
 st.divider()
 
